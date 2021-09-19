@@ -1,4 +1,16 @@
-# BMI_Calculator
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/GPtCBB0/Screenshot-2021-09-19-155905.jpg" alt="Screenshot-2021-09-19-155905" border="0"></a><br /><a target='_blank' href='https://statewideinventory.org/bmw-0-60-times'></a>
-Preview on Youtube:
-https://www.youtube.com/watch?v=ikUkZ6mHLWE
+# flutter_app6
+
+A new Flutter application.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
